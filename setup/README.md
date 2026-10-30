@@ -1,6 +1,6 @@
 # Setup Before the Lecture
 
-Please complete these steps **before the first session**. It takes about 15 minutes.
+Please complete these steps **before the Claude Bootcamp session**. It takes about 15 minutes.
 
 ## Checklist
 
@@ -37,8 +37,6 @@ In the lecture we use the **Claude desktop app** by default.
 2. Run the installer and follow the steps
 3. Launch Claude and sign in with your Pro account
 
-No terminal, Node.js or other tools needed.
-
 **Linux users:** there is no desktop app, use the terminal version (see below).
 
 ### Check that it works
@@ -67,7 +65,6 @@ New to Obsidian or Markdown? See [Obsidian Basics](../help/obsidian-basics.md) a
 ## Optional: go deeper with Claude Code
 
 We cannot cover every detail of Claude Code in the lecture. If you want to experience what it can really do, I recommend the free course **Claude Code for Product Managers**: [ccforpms.com](https://ccforpms.com/)
-
 It takes you step by step through the tool and will be useful well beyond this lecture, for your studies too.
 
 ## Problems?
